@@ -1,3 +1,5 @@
+FREAKHOSTING - https://freakhosting.com
+
 # Base Pack
 
 Base pack for Counter-Strike 1.6 servers with latest AMX Mod X, ReHLDS, ReGameDLL, Reunion and more!
